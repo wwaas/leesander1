@@ -135,4 +135,3 @@ func main() {
 	}
 	updateReadme()
 }
-© 2021 GitHub, Inc.
